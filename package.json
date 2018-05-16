@@ -1,6 +1,6 @@
 {
   "name": "react-performance-observer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get performance measurements from React Fiber",
   "main": "index.js",
   "repository": "https://github.com/jamiebuilds/react-performance-observer",
