@@ -1,0 +1,31 @@
+{
+  "name": "react-performance-observer",
+  "version": "0.0.0",
+  "description": "Get performance measurements from React Fiber",
+  "main": "index.js",
+  "repository": "https://github.com/jamiebuilds/react-performance-observer",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "performance",
+    "perf",
+    "16",
+    "fiber",
+    "observer",
+    "observe",
+    "parse",
+    "debug"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "example": "parcel example/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.8.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
